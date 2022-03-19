@@ -15,15 +15,58 @@ updated: 05 Mar 2022
 | ---------- | ---------------------------------------------------------------- |
 | license    | CC-BY-SA-4.0                                                     |
 | author     | DTPhantom and zer0Kerbal                                         |
-| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/113109-*) |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/207329-*) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/Antennas)              |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/Antennas)            |
 | spacedock  | (https://spacedock.info/mod/98)                                  |
 | ckan       | Antennas                                                         |
 
-## Version 1.4.99.0-adoption <edition-name>
+## Version 1.4.99.0-adoption <Can You Hear Me Now?>
+
+* 17 Mar 2022
+* For Kerbal Space Program [1.12.x]
 
 * >>-- adoption by zer0Kerbal --<<
+
+### Repo
+
+* setup GitHub
+* Update Antennas.version
+* Update _release
+* Update json's
+
+### Folder
+
+* Restructure and reorganize
+* Rename /Patches to /Compatibility
+
+## Part Localization
+
+* Create agency
+* Localize
+* Parts to localize
+  * [vhfBlade.cfg]
+  * [hu6s125.cfg]
+  * [yagiActual.cfg]
+  * [yagiAntenna.cfg]
+  * [helixAntenna.cfg]
+  * [quadHelix.cfg]
+
+
+### GameData
+
+* Localization folder 📁
+* Localization\ [readme.md][URL:lclztn] 🗃️
+* Localization\ [quickstart.md][URL:qs] 🗃️
+
+### Documentation
+
+* Update [readme.md] 🔢
+* Update [release.md] 🧾
+
+#### Wiki
+
+* Create docs/[localization.md]
 
 ## Version 1.4 (12 May 16)
 
