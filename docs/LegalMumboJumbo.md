@@ -12,7 +12,7 @@ updated: 07 Mar 2022
 
 # Antennas (ANTS)
 
-* [LegalMumboJumbo](/LegalMumboJumbo/License.htm)
+* [LegalMumboJumbo](/LegalMumboJumbo/License.md)
 * ![LegalMumboJumbo](/LegalMumboJumbo/FORUM-01.png)
 <!-- * ![LegalMumboJumbo](/LegalMumboJumbo/Forum-Beale-explicit-permission) -->
 
