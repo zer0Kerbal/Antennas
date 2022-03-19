@@ -37,8 +37,30 @@ updated: 05 Mar 2022
 
 ### Folder
 
+* [PhantomAerospace-red.png]
+* [PhantomAerospace-white.png]
 * Restructure and reorganize
 * Rename /Patches to /Compatibility
+
+### Compatibility Patches
+
+* [AntennaRange.cfg] v1.1.0.0
+* [RemoteTech.cfg] v1.1.0.0
+* [Telemachus.cfg] v1.1.0.0
+* rename to remove spaces in filenames
+* Add :FOR[Antennas] to all patches
+* add Header/Footer
+* clean up whitespace
+
+### Flags / Agency
+
+* rename flags to remove spaces in filenames
+* Resize from 256x160 to 512x360
+* Create Agencies/[Agents.cfg]
+  * create Phantom Aerospace
+  * [PhantomAerospace.png]
+  * [PhantomAerospace_scaled]
+  * Agent Description needs fleshing out
 
 ## Part Localization
 
