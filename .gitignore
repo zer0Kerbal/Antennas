@@ -166,3 +166,5 @@ crashlytics-build.properties
 graphics/Thumbs.db
 *.old
 *.2do
+*.Thumbs
+GameData/PhantomAerospace/Parts/helixAntenna/Thumbs.db
