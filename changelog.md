@@ -37,8 +37,6 @@ updated: 05 Mar 2022
 
 ### Folder
 
-* [PhantomAerospace-red.png]
-* [PhantomAerospace-white.png]
 * Restructure and reorganize
 * Rename /Patches to /Compatibility
 
@@ -55,6 +53,8 @@ updated: 05 Mar 2022
 ### Flags / Agency
 
 * rename flags to remove spaces in filenames
+* [PhantomAerospace-red.png]
+* [PhantomAerospace-white.png]
 * Resize from 256x160 to 512x360
 * Create Agencies/[Agents.cfg]
   * create Phantom Aerospace
