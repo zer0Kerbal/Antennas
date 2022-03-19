@@ -4,7 +4,7 @@ title: Localizations
 ---
 
 <!-- Localizations.md v1.1.2.0
-MOD-NAME (ABBV)
+Antennas (ANTS)
 created: 01 Feb 2022
 updated: 07 Mar 2022 -->
 
@@ -13,7 +13,7 @@ updated: 07 Mar 2022 -->
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
 
-# MOD-NAME (ABBV)
+# Antennas (ANTS)
 
 has been translated into the following languages:
 
