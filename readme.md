@@ -18,24 +18,20 @@ updated: 05 Mar 2022 -->
 Adds six new antennas that are compatible with both Antenna Range, Remote Tech and Telemachus to Kerbal Space Program.
 
 
-
 ## By [`zer0Kerbal`][LINK:zer0Kerbal], originally by [`DTPhantom`][LINK:dtphantom]
 
-
-<img src="https://i.imgur.com/zXlcwmi.jpg" alt="HERO-01" width="25%" height="25%"> <img src="https://i.imgur.com/wyprg06l.jpg" alt="HERO-02" width="50%" height="50%">
-
-
+<img src="https://i.imgur.com/zXlcwmi.jpg" alt="HERO-01" width="50%" height="50%"> <img src="https://i.imgur.com/wyprg06l.jpg" alt="HERO-02" width="50%" height="50%">
 
 
 
 ### Includes the following new antennas
 
-* H1X Helical Antenna which is a directional antenna with a 35 degree angle and a range of 70Mm
-* YA6 Yagi Antenna which is a directional antenna with a range of 40Gm and a 0.1 degree angle perfect for covering the inner solar system
-* V17-7 Scimitar Antenna which is an Omni antenna with a 300Km range and based off the Scimitar antennas flown on the Apollo command module
-* Q4-4 Quad Helix which is an Omni Antenna with a 100Km range, but unlocked on start and primarily designed to provide a Telemachus Link early in the game
-* LA-7 Log Periodic Antenna which is a directional antenna with a range of 50Mm and a 60 degree angle
-* HU6s-125 Twin Loop is an omni antenna designed to wrap around your 1.25m ship and provide 1Mn of range
+* **H1X Helical** Antenna which is a directional antenna with a 35 degree angle and a range of 70Mm
+* **YA6 Yagi** Antenna which is a directional antenna with a range of 40Gm and a 0.1 degree angle perfect for covering the inner solar system
+* **V17-7 Scimitar** Antenna which is an Omni antenna with a 300Km range and based off the Scimitar antennas flown on the Apollo command module
+* **Q4-4 Quad Helix** which is an Omni Antenna with a 100Km range, but unlocked on start and primarily designed to provide a Telemachus Link early in the game
+* **LA-7 Log Periodic** Antenna which is a directional antenna with a range of 50Mm and a 60 degree angle
+* **HU6s-125 Twin Loop** is an omni antenna designed to wrap around your 1.25m ship and provide 1Mn of range
 
 ### Help Wanted
 
@@ -149,8 +145,8 @@ GitHub:
 
 <!--- mod provenance -->
 [MOD:org:source]: https://spacedock.info/mod/98 "Dropbox"
-[MOD:org:thread]:https://forum.kerbalspaceprogram.com/index.php?/topic/113109-* "KSP Forum"  
-[MOD:org:download]: https://spacedock.info/mod/98 "Dropbox"  
+[MOD:org:thread]:https://forum.kerbalspaceprogram.com/index.php?/topic/113109-* "KSP Forum"
+[MOD:org:download]: https://spacedock.info/mod/98 "Dropbox"
 
 <!--- license provenance-->
 [LIC:org:url]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
