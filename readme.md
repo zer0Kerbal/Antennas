@@ -7,7 +7,7 @@ updated: 05 Mar 2022 -->
 
 [![Antennas][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![CKAN][CKAN:shd]][CKAN:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url]  
-![Code][CODE:shd] ![KSP-AVC][AVC:shd] ![Validate AVC .version files][AVCVLD:shd]
+![Code][CODE:shd] ![KSP-AVC][AVC:shd] ![AVC .version files][AVCVLD:shd]
 
 [![GitHub Pages][MOD:pages:shd]][MOD:pages]
 
@@ -35,16 +35,17 @@ Adds six new antennas that are compatible with both Antenna Range, Remote Tech a
 
 ### Help Wanted
 
-> * Would love someone to convert from FireSpitter to Stock and/or KSPWheel  
-> * Variant Textures and code to make it work always welcome!
-> * Model updates to Unity 2019
+> * Would love some Blender/Unity love to add animations, and *dablinkingness*
+> * Variant Textures and models are always welcome!
+> * Compatibility Patches
+> * Stock Balance Pass
 > * Have a request? Glad to have them, kindly submit through GitHub.
 
 ---
 
 ### Localization - *work in progress*
 
->* [x] ![English][EN] English - in progress
+>* [x] ![English][EN] English
 >* [ ] ***your translation here***
 >
 > HELP WANTED - See the [README in the Localization folder][MOD:local] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
@@ -83,7 +84,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 
 ### Supports
 
-* [Module Manager /L][thread:mm] [^2] *only required to use the compatability patches*
+* [Module Manager /L][thread:mm] [^2] *only required to use the compatibility patches*
 * [Antenna Range][thread:ar]
 * [RemoteTech][thread:rt]
 * [Telemachus][thread:tele]
@@ -125,7 +126,7 @@ GitHub:
 **[The Short List](https://github.com/users/zer0Kerbal/projects/27) —** [![Twitter_icon-icons.com_66803.png](https://cdn.icon-icons.com/icons2/836/PNG/32/Twitter_icon-icons.com_66803.png)](https://twitter.com/zer0Kerbal) **[@zer0Kerbal](https://twitter.com/zer0Kerbal)**
 
 <!-- mod links -->
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/113109-* "Antennas Forum Thread"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/207329-* "Antennas Forum Thread"
 [MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/Antennas/master/changelog.md  "Changelog"
 [MOD:contr]: https://github.com/zer0Kerbal/.github/blob/master/.github/CONTRIBUTING.md "Contributing"
 [MOD:discu]: https://github.com/zer0Kerbal/Antennas/discussions "Discussions"
@@ -159,7 +160,7 @@ GitHub:
 
 <!--- AVC -->
 [AVC:shd]:  https://img.shields.io/badge/KSP-AVC--supported-00C961.svg?labelColor=black&style=plastic
-[AVCVLD:shd]: https://github.com/zer0Kerbal/Antennas/workflows/Validate%20AVC%20.version%20files/badge.svg?labelColor=black&style=plastic "AVC-Valid - thank you to DasSkelett"
+[AVCVLD:shd]: https://github.com/zer0Kerbal/Antennas/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?labelColor=black&style=plastic "AVC-Valid - thank you to DasSkelett"
 
 <!--- CKAN -->
 [CKAN:img]: https://i.postimg.cc/x8XSVg4R/sj507JC.png "CKAN"
