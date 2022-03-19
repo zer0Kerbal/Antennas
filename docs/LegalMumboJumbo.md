@@ -14,6 +14,6 @@ updated: 07 Mar 2022
 
 * [LegalMumboJumbo](/LegalMumboJumbo/License.htm)
 * ![LegalMumboJumbo](/LegalMumboJumbo/FORUM-01.png)
-* ![LegalMumboJumbo](/LegalMumboJumbo/Forum-Beale-explicit-permission)
+<!-- * ![LegalMumboJumbo](/LegalMumboJumbo/Forum-Beale-explicit-permission) -->
 
 <!-- this file CC BY-NC-ND 3.0 Unported by zer0Kerbal-->
