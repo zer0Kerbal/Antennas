@@ -21,6 +21,10 @@ updated: 05 Mar 2022
 | spacedock  | (https://spacedock.info/mod/98)                                  |
 | ckan       | Antennas                                                         |
 
+## Version 1.4.99.0-adoption <edition-name>
+
+* >>-- adoption by zer0Kerbal --<<
+
 ## Version 1.4 (12 May 16)
 
 * Fixed configs to stop breaking Antenna Range
