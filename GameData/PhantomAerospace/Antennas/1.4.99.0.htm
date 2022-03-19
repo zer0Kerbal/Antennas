@@ -23,8 +23,8 @@ title="GitHub Pages"><img
 src="https://github.com/zer0Kerbal/Antennas/actions/workflows/pages/pages-build-deployment/badge.svg"
 title="GitHub IO" alt="GitHub Pages" /></a></p>
 <hr />
-<h1 id="version-14990-adoption---see-clearly-the-flames">Version
-1.4.99.0-adoption - See Clearly the Flames!</h1>
+<h1 id="version-14990-adoption-can-you-hear-me-now">Version
+1.4.99.0-adoption &lt;Can You Hear Me Now?&gt;</h1>
 <ul>
 <li>17 Mar 2022</li>
 <li>Release for Kerbal Space Program [KSP 1.12.x]</li>
@@ -34,64 +34,233 @@ title="GitHub IO" alt="GitHub Pages" /></a></p>
 <p style="border:0.5px solid Tomato; background-color: #bada55; color: #FF0000; text-align:center">Download from <a href="https://www.curseforge.com/kerbal/ksp-mods/Antennas/files">CurseForge</a></p>
 
 <h2 id="changes">Changes</h2>
-<h3 id="all-parachutes">All parachutes</h3>
 <ul>
-<li>adjusted drag</li>
-<li>closes #22</li>
+<li><blockquote>
+<blockquote>
+<p>-- adoption by zer0Kerbal --&lt;&lt;</p>
+</blockquote>
+</blockquote></li>
 </ul>
-<h3 id="pmv-hydra">[pmv-hydra]</h3>
+<h3 id="repo">Repo</h3>
 <ul>
-<li>in order to have engine effects, had to remove multimode</li>
-<li>engine FX are now working</li>
-<li>one mode engine - same as afterburner</li>
-<li>added drag cube</li>
-<li>Elon Kermin found increased efficiency! and added an alternator</li>
-<li>closes #20</li>
+<li>setup GitHub</li>
+<li>Update Antennas.version</li>
+<li>Update _release</li>
+<li>Update json's</li>
 </ul>
-<h3 id="en-uscfg">&lt;en-us.cfg&gt;</h3>
+<h3 id="folder">Folder</h3>
 <ul>
-<li>adjust to reflect changes</li>
-<li>manual lint and style</li>
-<li>closes #27</li>
-<li>updates #20</li>
+<li>Restructure and reorganize</li>
+<li>Rename /Patches to /Compatibility</li>
 </ul>
-<h3 id="antennasversion">Antennas.version</h3>
+<h3 id="compatibility-patches">Compatibility Patches</h3>
 <ul>
-<li>change Changelog.cfg --&gt; changelog.md</li>
-<li>update release version</li>
-<li>update minimum KSP version</li>
+<li>[AntennaRange.cfg] v1.1.0.0</li>
+<li>[RemoteTech.cfg] v1.1.0.0</li>
+<li>[Telemachus.cfg] v1.1.0.0</li>
+<li>rename to remove spaces in filenames</li>
+<li>Add :FOR[Antennas] to all patches</li>
+<li>add Header/Footer</li>
+<li>clean up whitespace</li>
 </ul>
-<h3 id="pmv-engine">[pmv-engine]</h3>
+<h3 id="flags--agency">Flags / Agency</h3>
 <ul>
-<li>engine FX are now working #20</li>
-<li>Elon Kermin found increased efficiency!</li>
+<li>rename flags to remove spaces in filenames</li>
+<li>[PhantomAerospace-red.png]</li>
+<li>[PhantomAerospace-white.png]</li>
+<li>Resize from 256x160 to 512x360</li>
+<li>Create Agencies/[Agents.cfg]
+<ul>
+<li>create Phantom Aerospace</li>
+<li>[PhantomAerospace.png]</li>
+<li>[PhantomAerospace_scaled]</li>
+<li>Agent Description needs fleshing out</li>
+</ul></li>
 </ul>
-<h3 id="pmv-dockingport">[pmv-dockingport]</h3>
+<h3 id="parts">Parts</h3>
 <ul>
-<li>adjust [node_stack_bottom] y location</li>
-<li>adjust [node_stack_top] y location</li>
-<li>[ModuleDockingNode]: referenceAttachNode = bottom instead of top -
-this made it REALLY hard to dock!</li>
-<li>[description] from #pmv--dock-desc to #pmv-dock-desc (darn
-hyphen-monster again!)</li>
-<li>manual lint and style</li>
-<li>closes #13</li>
+<li>Localization
+<ul>
+<li>Create agency</li>
+<li>Localize</li>
+<li>Parts to localize
+<ul>
+<li>[vhfBlade.cfg]</li>
+<li>[hu6s125.cfg]</li>
+<li>[yagiActual.cfg]</li>
+<li>[yagiAntenna.cfg]</li>
+<li>[helixAntenna.cfg]</li>
+<li>[quadHelix.cfg]</li>
+</ul></li>
+</ul></li>
+<li>Assets
+<ul>
+<li>Create Assets folder</li>
+<li>rename all models to reflect part name
+<ul>
+<li>[vhfBlade.mu]</li>
+<li>[hu6s125.mu]</li>
+<li>[yagiActual.mu]</li>
+<li>[yagiAntenna.mu]</li>
+<li>[helixAntenna.mu]</li>
+<li>[quadHelix.mu]</li>
+</ul></li>
+<li>update internal pointer from .png to .dds</li>
+<li>rename corresponding [Tt]exture.dds to
+<ul>
+<li>[helixAntenna.mu]
+<ul>
+<li>[text000.dds]</li>
+</ul></li>
+<li>[vhfBlade.mu]
+<ul>
+<li>[text001.dds]</li>
+</ul></li>
+<li>[hu6s125.mu]
+<ul>
+<li>[text002.dds]</li>
+</ul></li>
+<li>[yagiActual.mu]
+<ul>
+<li>[text003.dds]</li>
+</ul></li>
+<li>[yagiAntenna.mu]
+<ul>
+<li>[text004.dds]</li>
+</ul></li>
+<li>[quadHelix.mu]
+<ul>
+<li>[text005.dds]</li>
+</ul></li>
+</ul></li>
+<li>updates #5 - Localization - Master</li>
+<li>closes #6 - American English &lt;us-en.cfg&gt;</li>
+<li>closes #21 - Part Localization</li>
+</ul></li>
+<li>Change
+<ul>
+<li>[Category] from Science to Communication</li>
+<li>General Linting and reorganization</li>
+<li>[attachRules] = 1,1,1,1,0 for all stackable parts</li>
+<li>adjust attachment nodes
+<ul>
+<li>correct orientation</li>
+<li>change size from 0 to 1</li>
+</ul></li>
+</ul></li>
+<li>Add
+<ul>
+<li>[tags]</li>
+<li>@thumbs</li>
+<li>[DRAG_CUBES]</li>
+<li>preliminary [ModuleCargoPart] to all parts</li>
+</ul></li>
+<li>Specific part changes
+<ul>
+<li>[vhfBlade.cfg]
+<ul>
+<li>[ModuleDataTransmitter] added equal to C16S - SurfAntenna</li>
+<li>[entryCost] was 7800, now is 800</li>
+<li>[cost] was 1275, now is 400</li>
+<li>crashTolerance[]] was 20, now is 10</li>
+</ul></li>
+<li>[hu6s125.cfg]
+<ul>
+<li>[ModuleDataTransmitter]
+<ul>
+<li>added [antennaType] = DIRECT</li>
+<li>added [antennaPower] = 750000]</li>
+</ul></li>
+<li>[entryCost] was 7800, now is 780</li>
+<li>[cost] was 1275, now is 350</li>
+<li>crashTolerance[]] was 20, now is 11</li>
+</ul></li>
+<li>[yagiActual.cfg]
+<ul>
+<li>[ModuleDataTransmitter]
+<ul>
+<li>added [antennaType] = DIRECT</li>
+<li>added [antennaPower] = 1500000]</li>
+</ul></li>
+</ul></li>
+<li>[yagiAntenna.cfg]
+<ul>
+<li>[ModuleDataTransmitter]
+<ul>
+<li>added [antennaType] = DIRECT</li>
+<li>added [antennaPower] = 750000]</li>
+</ul></li>
+</ul></li>
+<li>[helixAntenna.cfg]
+<ul>
+<li>[ModuleDataTransmitter]
+<ul>
+<li>added [antennaType] = DIRECT</li>
+<li>added [antennaPower] = 750000]</li>
+</ul></li>
+</ul></li>
+<li>[quadHelix.cfg]
+<ul>
+<li>[ModuleDataTransmitter]
+<ul>
+<li>added [antennaType] = DIRECT</li>
+<li>added [antennaPower] = 500000]</li>
+</ul></li>
+</ul></li>
+</ul></li>
 </ul>
-<h3 id="pmv-shuttle-body">[pmv-shuttle-body]</h3>
+<h3 id="gamedata">GameData</h3>
 <ul>
-<li>adjust [node_stack_bottom_APrt] y location</li>
-<li>adjust [node_stack_bottom_AStb] y location</li>
-<li>adjust [node_stack_bottom_BDsl] y location</li>
-<li>adjust [node_stack_bottom_BVnt] y location</li>
-<li>adjust [node_stack_gear] to make retracted gear flush</li>
+<li>Localization folder 📁</li>
+<li>Localization\ [readme.md][URL:lclztn] 🗃️</li>
+<li>Localization\ [quickstart.md][URL:qs] 🗃️</li>
+</ul>
+<h3 id="documentation">Documentation</h3>
+<ul>
+<li>Create
+<ul>
+<li>[readme.md] 🔢</li>
+<li>[release.md] 🧾</li>
+<li>[ManualInstallation.md]</li>
+<li>[Attributions.md]</li>
+</ul></li>
+</ul>
+<h3 id="docs">docs/</h3>
+<ul>
+<li>Create
+<ul>
+<li>docs/
+<ul>
+<li>[localization.md]</li>
+<li>[PartInvoice.md]</li>
+<li>[404.md]</li>
+<li>[Attributions.md]</li>
+<li>[index.md]</li>
+<li>[LegalMumboJumbo.md]</li>
+<li>[Localizations.md]</li>
+<li>[ManualInstallation.md]</li>
+<li>LegalMumboJumbo/
+<ul>
+<li>[FORUM-01.png]</li>
+<li>[License.md]</li>
+</ul></li>
+<li>ReleaseNotes/
+<ul>
+<li>[1.4.99.0.md]</li>
+</ul></li>
+</ul></li>
+</ul></li>
 </ul>
 <h3 id="status">Status</h3>
 <ul>
-<li>closes #14 - Version 1.4.99.0-adoption</li>
-<li>closes #15 - 1.4.99.0-adoption Social</li>
-<li>closes #16 - 1.4.99.0-adoption Release</li>
-<li>closes #17 - 1.4.99.0-adoption Update documentatio</li>
-<li>closes #18 - 1.4.99.0-adoption Legal MumboJumbo</li>
+<li>Issues
+<ul>
+<li>closes #4 - 1.4.99.0 Social Media</li>
+<li>closes #3 - 1.4.99.0 Update Documentation</li>
+<li>closes #2 - 1.4.99.0 Verify Legal Mumbo Jumbo</li>
+<li>closes #1 - Antennas 1.4.99.0-adoption &lt;Can You Hear Me
+Now?&gt;</li>
+</ul></li>
 </ul>
 <hr />
 <h2 id="see-more">See More</h2>
