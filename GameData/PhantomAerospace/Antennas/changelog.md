@@ -97,21 +97,11 @@ updated: 05 Mar 2022
       * [text004.dds]
     * [quadHelix.mu]
       * [text005.dds]
-  * updates #5 - Localization - Master
-  * closes #6 - American English <us-en.cfg>
-  * closes #21 - Part Localization
 * Change
   * [Category] from Science to Communication
   * General Linting and reorganization
-  * [attachRules] = 1,1,1,1,0 for all stackable parts
-  * adjust attachment nodes
-    * correct orientation
-    * change size from 0 to 1
 * Add
-  * [tags]
-  * @thumbs
-  * [DRAG_CUBES]
-  * preliminary [ModuleCargoPart] to all parts
+  * tags to all parts
 * Specific part changes
   * [vhfBlade.cfg]
     * [ModuleDataTransmitter] added equal to C16S - SurfAntenna
@@ -150,37 +140,12 @@ updated: 05 Mar 2022
 
 ### Documentation
 
-* Create
-  * [readme.md] 🔢
-  * [release.md] 🧾
-  * [ManualInstallation.md]
-  * [Attributions.md]
+* Update [readme.md] 🔢
+* Update [release.md] 🧾
 
-#### docs/
+#### Wiki
 
-* Create
-  * docs/
-    * [localization.md]
-    * [PartInvoice.md]
-    * [404.md]
-    * [Attributions.md]
-    * [index.md]
-    * [LegalMumboJumbo.md]
-    * [Localizations.md]
-    * [ManualInstallation.md]
-    * LegalMumboJumbo/
-      * [FORUM-01.png]
-      * [License.md]
-    * ReleaseNotes/
-      * [1.4.99.0.md]
-
-### Status
-
-* Issues
-  * closes #4 - 1.4.99.0 Social Media
-  * closes #3 - 1.4.99.0 Update Documentation
-  * closes #2 - 1.4.99.0 Verify Legal Mumbo Jumbo
-  * closes #1 - Antennas 1.4.99.0-adoption <Can You Hear Me Now?>
+* Create docs/[localization.md]
 
 ## Version 1.4 (12 May 16)
 
