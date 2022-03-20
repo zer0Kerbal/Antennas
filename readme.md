@@ -15,7 +15,7 @@ updated: 05 Mar 2022 -->
 
 # Antennas (ANTS)
 
-Adds six new antennas that are compatible with both Antenna Range, Remote Tech and Telemachus to Kerbal Space Program.
+Adds six new antennas that are compatible with Antenna Range, Remote Tech and Telemachus to Kerbal Space Program.
 
 
 ## By [`zer0Kerbal`][LINK:zer0Kerbal], originally by [`DTPhantom`][LINK:dtphantom]
