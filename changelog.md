@@ -1,27 +1,16 @@
-<!-- 
-changelog.md v1.1.1.1
-Antennas (ANTS)
-created: 01 Aug 2016
-updated: 05 Mar 2022
-
-——————————————————————————————————————————————————
-——— changelog ————————————————————————————————————
-——————————————————————————————————————————————————
--->
-
 # Changelog  
   
-| modName    | Antennas (ANTS)                                                  |
-| ---------- | ---------------------------------------------------------------- |
-| license    | CC-BY-SA-4.0                                                     |
-| author     | DTPhantom and zer0Kerbal                                         |
-| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/207329-*) |
-| github     | (https://github.com/zer0Kerbal/zer0Kerbal/Antennas)              |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/Antennas)            |
-| spacedock  | (https://spacedock.info/mod/98)                                  |
-| ckan       | Antennas                                                         |
+| modName    | Antennas (ANTS) by DTPhantom                                      |
+| ---------- | ----------------------------------------------------------------- |
+| license    | CC-BY-SA-4.0+ARR                                                  |
+| author     | DTPhantom and zer0Kerbal                                          |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/207329-*/) |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/Antennas)               |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/Antennas)             |
+| spacedock  | (https://spacedock.info/mod/98)                                   |
+| ckan       | Antennas                                                          |
 
-## Version 1.4.99.0-adoption <Can You Hear Me Now?>
+## Version 1.4.99.0-adoption `<Can You Hear Me Now?>`
 
 * 17 Mar 2022
 * For Kerbal Space Program [1.12.x]
