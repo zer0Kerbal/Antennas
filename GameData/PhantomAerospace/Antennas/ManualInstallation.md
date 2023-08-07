@@ -97,7 +97,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 
 ### Supports
 
-* [Module Manager /L][thread:mm] [^2] *only required to use the compatability patches*
+* [Module Manager /L][thread:mm] [^2] *only required to use the Compatibility patches*
 * [AntennaRange][thread:ar]
 * [RemoteTech][thread:rt]
 * [Telemachus][thread:tele]
