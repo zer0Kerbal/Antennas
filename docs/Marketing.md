@@ -34,19 +34,19 @@ this file:
 
 ## Hero 01
 
-<img src="https://i.imgur.com/zXlcwmi.jpg" alt="HERO-01" width="50%" height="50%"> <img src="https://i.imgur.com/wyprg06l.jpg" alt="HERO-02" width="50%" height="50%">
-
+<img src="https://raw.githubusercontent.com/zer0Kerbal/Antennas/master/docs/Marketing/HERO-01.png" alt="Antennas (ANTS)" width="100%" height="100%">
 
 <small><i>[top](#table-of-contents)</i></small>
 
 ## Hero 02
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/Antennas/master/docs/Marketing/HERO-01.png" alt="MOD-NAME (ABBV)" width="100%" height="100%">
+<img src="https://raw.githubusercontent.com/zer0Kerbal/Antennas/master/docs/Marketing/HERO-02.jpg" alt="Antennas (ANTS)" width="100%" height="100%">
 
 <small><i>[top](#table-of-contents)</i></small>
 
 ## Hero 03
 
+<img src="https://raw.githubusercontent.com/zer0Kerbal/Antennas/master/docs/Marketing/HERO-03.jpg" alt="Antennas (ANTS)" width="100%" height="100%">
 
 <small><i>[top](#table-of-contents)</i></small>
 
