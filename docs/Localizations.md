@@ -1,67 +1,53 @@
 ---
 permalink: /Localizations.html
 title: Localizations
+description: camera goes *click-click*
+tags: translations,localizations,languages,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
-<!-- Localizations.md v1.1.2.0
+<!-- Localizations.md v1.0.1.0
 Antennas (ANTS)
+created: 17 Mar 2022
+updated: 07 Aug 2023
+
+TEMPLATE: Localizations.md v1.2.0.0
 created: 01 Feb 2022
-updated: 07 Mar 2022 -->
+updated: 27 Jun 2023
 
-[Home](https://zer0kerbal.github.io/Notes)
-
+THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
-<i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
+<div class="fa-3x"><i class="fa fa-language fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25; color: #BADA55"></i></div>
 
-# Antennas (ANTS)
+## [Antennas (ANTS)][mod]
+
+[Home](./index.md)
 
 has been translated into the following languages:
 
-* ![American English][EN] American English <us-en.cfg>  
+* ![English](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/EN.png) English <us-en.cfg>
+* ![Русский (Russian)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/RU.png) Russian (Русский) <ru.cfg>
 
 __These localizations for KSP and its DLC's are available through Steam:__
 
-* [ ] ![Deutsch][DE] German (Deutsch)  <de.cfg>  
-* [ ] ![Español][ES] Spanish (Español) <es-es.cfg>  
-* [ ] ![Français][FR] French (Français) <fr-fr.cfg>  
-* [ ] ![Italiano][IT] Italian (Italiano) <it-it.cfg>  
-* [ ] ![日本語][JA] Japanese(日本語) <ja.cfg>  
-* [ ] ![Português Brasil][BR] Brazilian Portuguese (Português Brasil)<pt-br.cfg>  
-* [ ] ![Русский][RU] Russian (Русский) <ru.cfg>  
-* [ ] ![简体中文][CN] Simplified Chinese (简体中文) <zh-cn.cfg>  
+* ![Deutsch (German)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/DE.png) German (Deutsch) <de.cfg>
+* ![Español (Spanish)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/ES.png) Spanish (Español) <es-es.cfg>
+* ![Français (French)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/FR.png) French (Français) <fr-fr.cfg>
+* ![Italiano (Italian)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/IT.png) Italian (Italiano) <it-it.cfg>
+* ![日本語 (Japanese)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/JA.png) Japanese(日本語) <ja.cfg>
+* ![Português Brasil (Brazilian Portugues)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/BR.png) Brazilian Portuguese (Português Brasil) <pt-br.cfg>
+* ![简体中文 (Simplified Chinese))](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/CH.png) Simplified Chinese (简体中文) <zh-cn.cfg>
 
-[BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Brazilian-flag-sm.png "Brazil"
-[CN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Chinese-flag-sm.png "简体中文"
-[DE]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/German-flag-sm.png "Deutsch"
-[EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/American-flag-sm.png "American English"
-[ES]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Spanish-flag-sm.png "Español"
-[FR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/French-flag-sm.png "Français"
-[IT]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Italian-flag-sm.png "Italiano"
-[JA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Japanese-flag-sm.png "日本語"
-[RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Russian-flag-sm.png "Русский"
+## Additionally Included
 
-## Included just in case
+* ![Español Mexicano (Mexican Spanish)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/MX.png) Mexican Spanish (Español Mexicano) <es-mx.cfg>
+* ![한국어 (Korean)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/KO.png) Korean (한국어) <ko.cfg>
+* ![Dutch (Nederlands)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/NL.png) Dutch (Nederlands) <nl-nl.cfg>
+* ![Norsk (Norwegian)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/NO.png) Norwegian (Norsk) <no-no.cfg>
+* ![Polski (Polish)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/PO.png) Polish (Polski) <pl.cfg>
+* ![Svenska (Swedish)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/SW.png) Swedish (Svenska) <sw-sw.cfg>
+* ![Türk (Turkish)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/TR.png) Turkish (Türk) <tr-tr.cfg>
+* ![国语 (Taiwanese)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/TW.png) Taiwanese (国语) <zh-tw.cfg>
 
-* [ ] ![Mexicano][ME] Mexican Spanish (Español Mexicano) <es-mx.cfg>  
-* [ ] ![한국어][KO] Korean (한국어) <ko.cfg>  
-* [ ] ![Dutch][NL] Dutch (Nederlands) <nl-nl.cfg>  
-* [ ] ![Norsk][NO] Norwegian (Norsk) <no-no.cfg>  
-* [ ] ![Polski][PO] Polish (Polski)] <pl.cfg>  
-* [ ] ![Svenska][SW] Swedish (Svenska) <sw-sw.cfg>  
-* [ ] ![国语][TW] Taiwanese (国语) <zh-tw.cfg>
-* [ ] ![ʻŌlelo PEN][HA] Hawai'ian(ʻŌlelo Pākē) <ha.cfg>  
+THIS FILE: CC BY-ND 4.0 by zer0Kerbal
+  used with express permission from zer0Kerbal
 
-<!-- Localization -->
-[URL:lclztn]: https://github.com/zer0Kerbal/localization/blob/master/readme.md "Localization"
-[URL:qs]: https://github.com/zer0Kerbal/localization/blob/master/readme.md "Quick Start"
-
-[KO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/South-Korean-flag-sm.png "한국어"
-[ME]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Mexican-flag-sm.png "Español Mexicano"
-[NL]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Dutch-flag-sm.png "Dutch"
-[NO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Norwegian-flag-sm.png "Norsk"
-[PO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Polish-flag-sm.png "Polski"
-[SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Swedish-flag-sm.png "Svenska"
-[TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Taiwanese-flag-sm.png "国语"
-[HA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Hawaii-flag-sm.png "ʻŌlelo Pākē"
-
-<!-- this file CC BY-NC-ND 3.0 Unported by zer0Kerbal -->
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/MOD-NAME "MOD-NAME (ABBV)"
