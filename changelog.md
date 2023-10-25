@@ -10,6 +10,57 @@
 | spacedock  | (https://spacedock.info/mod/98)                                   |
 | ckan       | Antennas                                                          |
 
+## Version 1.5.0.0-release `<Спасибо TheKyrlukCat>` edition
+
+* Released
+  * 22 Oct 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Change Summary 1.5.0.0
+
+* Localize
+  * ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский)
+  * Спасибо [TheKyrlukCat](https://github.com/TheKyrlukCat)
+
+### Changes 1.5.0.0
+
+#### Localization 1.5.0.0
+
+* Add
+  * Russian (Русский)
+    * [ru.cfg] v1.0.0.0
+    * Спасибо [TheKyrlukCat](https://github.com/TheKyrlukCat)
+  * Translation guides
+    * [readme-ru.md] v1.0.1.0
+    * [quickstart-ru.md] v1.0.0.0
+    * Спасибо [evanisrael](https://github.com/evanisrael)
+* Update
+  * [ru.cfg] v1.0.1.0
+  * add header, give credit
+* closes #13 - Russian (Русский) <ru.cfg>
+* updates #5 - Localization - Master
+
+#### Documentation 1.5.0.0
+
+* Add
+  * [PartsCatalog.md] v1.5.0.0
+* Update
+  * [Attributions.md] v1.0.1.0
+  * [Localizations.md] v1.0.1.0
+  * [readme.md] v1.5.0.0
+  * [ReleaseLayout.md] v1.5.0.0
+
+### Status 1.5.0.0
+
+* Issues
+  * closes #29 - 1.5.0.0 Verify Legal Mumbo Jumbo
+  * closes #30 - 1.5.0.0 Update Documentation
+  * closes #31 - 1.5.0.0 Social Media
+  * closes #32 - Antennas 1.5.0.0-prerelease <Спасибо TheKyrlukCat>
+
+---
+
 ## Version 1.4.99.0-adoption `<Can You Hear Me Now?>`
 
 * 17 Mar 2022
@@ -163,7 +214,7 @@
     * ReleaseNotes/
       * [1.4.99.0.md]
 
-### Status
+### Status 1.4.99.0
 
 * Issues
   * closes #4 - 1.4.99.0 Social Media
