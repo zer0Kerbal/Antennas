@@ -24,6 +24,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 has been translated into the following languages:
 
 * ![English](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/EN.png) English <us-en.cfg>
+* ![Русский (Russian)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/RU.png) Russian (Русский) <ru.cfg>
 
 __These localizations for KSP and its DLC's are available through Steam:__
 
@@ -33,7 +34,6 @@ __These localizations for KSP and its DLC's are available through Steam:__
 * ![Italiano (Italian)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/IT.png) Italian (Italiano) <it-it.cfg>
 * ![日本語 (Japanese)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/JA.png) Japanese(日本語) <ja.cfg>
 * ![Português Brasil (Brazilian Portugues)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/BR.png) Brazilian Portuguese (Português Brasil) <pt-br.cfg>
-* ![Русский (Russian)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/RU.png) Russian (Русский) <ru.cfg>
 * ![简体中文 (Simplified Chinese))](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/CH.png) Simplified Chinese (简体中文) <zh-cn.cfg>
 
 ## Additionally Included
